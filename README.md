@@ -3,7 +3,7 @@
   <div style="display: flex">
     <a href="https://github.com/mateusgf00">
     <img height="180cm" width="410px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusgf00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180cm" width="420px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusgf00&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180cm" width="410px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusgf00&layout=compact&langs_count=16&theme=dark"/>
   </div>
 
 ## ⌨️:
